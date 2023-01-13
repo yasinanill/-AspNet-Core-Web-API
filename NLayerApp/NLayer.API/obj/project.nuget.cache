@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5cqsEEvUQXNmTAbMJEXyY0sEvKIpDCChpLplck4Am5iFXkaOVqxoTHo+LWqVsfnGTpdZqge3xPiXitJycIigYg==",
+  "dgSpecHash": "cX7Wcn3mylnQmWa8rZ2ZnfPNZBCcgzSUPmEKKlo5RnJvT40q+y43EPA8iRbZhv3IVPkhp3rfkTvzv3e0HFzJpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+  "projectFilePath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yasinanil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\yasinanil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

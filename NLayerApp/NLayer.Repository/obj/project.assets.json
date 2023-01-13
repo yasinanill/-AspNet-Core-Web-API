@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
       "projectName": "NLayer.Repository",
-      "projectPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+      "projectPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
       "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Repository\\obj\\",
+      "outputPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
-              "projectPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj"
+            "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
+              "projectPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj"
             }
           }
         }

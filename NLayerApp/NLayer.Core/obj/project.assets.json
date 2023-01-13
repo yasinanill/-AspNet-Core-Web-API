@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+      "projectUniqueName": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
       "projectName": "NLayer.Core",
-      "projectPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+      "projectPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
       "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Core\\obj\\",
+      "outputPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",

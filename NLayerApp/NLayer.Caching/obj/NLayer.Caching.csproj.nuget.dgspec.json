@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
+    "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
+    "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectUniqueName": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
         "projectName": "NLayer.Caching",
-        "projectPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
         "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasinanil\\Desktop\\ETicaretUygulmasi\\NLayerApp\\NLayer.Caching\\obj\\",
+        "outputPath": "C:\\Users\\yasinanil\\Documents\\GitHub\\-AspNet-Core-Web-API\\NLayerApp\\NLayer.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
