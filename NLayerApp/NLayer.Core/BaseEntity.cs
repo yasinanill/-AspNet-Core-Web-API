@@ -9,9 +9,10 @@ namespace NLayer.Core
     public abstract class BaseEntity
     {
         //Classlarımız icin ortak propertylerimizi tanımladık
-        public int ID { get; set; }
-        public DateTime CreatedTime   { get; set; }
-        public DateTime UpdatedTime   { get; set; }
+        public int Id { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime? UpdatedDate   { get; set; }
+        // update zamani ver' tabanin ilk eklendiginde null olmasi lazim bu  yuzden nunable bir ifade icin soru isareti koyduk
 
     }
 }

@@ -28,3 +28,5 @@ C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Reposi
 C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\yasinanil\Documents\GitHub\-AspNet-Core-Web-API\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
