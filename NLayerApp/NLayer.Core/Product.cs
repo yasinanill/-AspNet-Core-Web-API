@@ -14,7 +14,7 @@ namespace NLayer.Core
 
         public int CategoryId { get; set; }
 
-        public Category Category { get; set; }
+        public Category Category { get; set; } //her kategorının birden fazla urunu olabilir
 
         public ProductFeature ProductFeature { get; set; }
     }
